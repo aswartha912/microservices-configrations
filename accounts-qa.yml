@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs"
+  contactDetails :
+    name: "Mark champ - Developer"
+    email: "mchamp@eazybank.com"
+  onCallSupport:
+    - (666) 345-1234
+    - (666) 345-1345

@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related prod APIs"
+  contactDetails :
+    name: "Joo root - Developer"
+    email: "jroot@eazybank.com"
+  onCallSupport:
+    - (777) 987-1234
+    - (777) 987-1345
